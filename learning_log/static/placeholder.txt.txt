@@ -1,0 +1,1 @@
+esse arquivo garante  que a pasta /static/ será incluída no projeto
